@@ -1,4 +1,3 @@
-https://www.datasciencedegreeprograms.net/wp-content/uploads/2022/01/shutterstock_1894496257-1024x316.jpg
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">Bioinformatics and Systems Biology PhD student</h3>
 
@@ -6,9 +5,10 @@ https://www.datasciencedegreeprograms.net/wp-content/uploads/2022/01/shutterstoc
 
 - 📫 How to reach me **arasmerve20@hotmail.com**
 
+- 📄 Linkedin Link [https://www.linkedin.com/in/merve-aras-292aa9175/](https://www.linkedin.com/in/merve-aras-292aa9175/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/merve-aras-292aa9175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/merve-aras-292aa9175/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
