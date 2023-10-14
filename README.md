@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datasciencedegreeprograms.net%2Flists%2F5-common-courses-in-a-bioinformatics-degree-program%2F&psig=AOvVaw2qCy8BXjrUATaWZdp6kGsb&ust=1697405374991000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDnhPa99oEDFQAAAAAdAAAAABBW)
+![Header](https://www.datasciencedegreeprograms.net/wp-content/uploads/2022/01/shutterstock_1894496257-1536x474.jpg)
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">Bioinformatics and Systems Biology PhD student</h3>
 
